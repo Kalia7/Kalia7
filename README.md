@@ -2,7 +2,7 @@
 
 🎓 Estudante de Ciência da Computação  
 💡 Interesses: Automação, Robótica, Arduino, e Inteligência Artificial  
-⚙️ Atualmente trabalhando produção de produtos IOT  
+⚙️ Atualmente trabalhando na produção de produtos IOT  
 📚 Aprendendo: Python, Banco de Dados  
 
 ## 🛠️ Tecnologias
