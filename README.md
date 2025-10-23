@@ -1,16 +1,12 @@
-## Hi there 👋
+# 👋 Olá, eu sou a Kália!
 
-<!--
-**Kalia7/Kalia7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Ciência da Computação  
+💡 Interesses: Automação, Robótica, Arduino, e Inteligência Artificial  
+⚙️ Atualmente trabalhando produção de produtos IOT  
+📚 Aprendendo: Python, Banco de Dados  
+🚀 Objetivo:   
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias
+- **Linguagens:** Python, C++
+- **Frameworks:** 
+- **Ferramentas:** Git, VS Code, TIA Portal, Arduino IDE, thinkercad
